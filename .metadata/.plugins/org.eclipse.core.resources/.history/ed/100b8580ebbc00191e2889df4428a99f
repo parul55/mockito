@@ -1,0 +1,23 @@
+package com.zensar.mockito;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Rule;
+import org.junit.Test;
+import org.mockito.Mock;
+import org.mockito.junit.MockitoJUnit;
+import org.mockito.junit.MockitoRule;
+
+public class CalculatorTest {
+	@Mock
+	private Calculator calculator;
+	
+	@Rule
+	MockitoRule rule=MockitoJUnit.rule();
+	
+	@Test
+	public void additionTest() {
+		assertEquals(10, calculator.add(3, 7));
+	}
+	
+}

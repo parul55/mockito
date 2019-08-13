@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.mockito.junit.MockitoRule"/>
+<fullyQualifiedTypeName name="org.mockito.junit.MockitoJUnit"/>
+<fullyQualifiedTypeName name="org.junit.Rule"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.zensar.mockito.Calculator"/>
+<fullyQualifiedTypeName name="org.mockito.Mock"/>
+<fullyQualifiedTypeName name="com.zensar.mockito.Arithmetic"/>
+<fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+<fullyQualifiedTypeName name="org.mockito.Mockito"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+</qualifiedTypeNameHistroy>

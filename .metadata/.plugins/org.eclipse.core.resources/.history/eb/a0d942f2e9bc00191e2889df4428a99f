@@ -1,0 +1,15 @@
+package com.zensar.mockito;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+public class CalculatorTest {
+
+	private Calculator calculator=new Calculator();
+	@Test
+	public void additionTest() {
+		assertEquals(10, calculator.add(3, 7));
+	}
+	
+}
